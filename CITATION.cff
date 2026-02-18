@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Si usas este software, por favor cítalo."
+title: "Practica 0: Sistema Respiratorio"
+authors:
+  - family-names: "García Toledo"
+    given-names: "Alan Omar"
+version: 1.0.0
+date-released: 2026-02-17
+repository-code: "https://github.com/alangarcia201-hub/MDSPractica0"
+license: BSD-2-Clause
